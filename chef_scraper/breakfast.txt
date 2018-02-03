@@ -1,0 +1,29 @@
+title: Joseph's Best Easy Bacon Recipe ratings: 4.47058820724487 review number: 222
+title: Joe's Special Scramble ratings: 4.37837839126587 review number: 41
+title: Baked Brunch Omelet ratings: 4.54119873046875 review number: 169
+title: Instant Pot® Cranberry-Pumpkin Steel Cut Oatmeal ratings: 4.38868618011475 review number: 0
+title: Best Buckwheat Pancakes ratings: 4.29370641708374 review number: 121
+title: Good-Morning Banana Nut Cereal ratings: 4.61999988555908 review number: 63
+title: Authentic Mexican Breakfast Tacos ratings: 4.30000019073486 review number: 174
+title: Purple Monstrosity Fruit Smoothie ratings: 4.42999982833862 review number: 167
+title: Maple Apple Turkey Sausage ratings: 4.59000015258789 review number: 2
+title: Fluffy Pancakes ratings: 4.63000011444092 review number: 9866
+title: Good Old Fashioned Pancakes ratings: 4.48999977111816 review number: 9563
+title: Downeast Maine Pumpkin Bread ratings: 4.53999996185303 review number: 6861
+title: Mom's Zucchini Bread ratings: 4.53000020980835 review number: 6613
+title: Banana Sour Cream Bread ratings: 4.61999988555908 review number: 4111
+title: Fluffy French Toast ratings: 4.30999994277954 review number: 2628
+title: Waffles I ratings: 4.65000009536743 review number: 2889
+title: Buttermilk Pancakes II ratings: 4.51999998092651 review number: 2625
+title: Basic Crepes ratings: 4.48999977111816 review number: 2297
+title: Pumpkin Pancakes ratings: 4.59000015258789 review number: 2131
+title: Classic Waffles ratings: 4.61999988555908 review number: 2059
+title: Crustless Spinach Quiche ratings: 4.48999977111816 review number: 1890
+title: Cheesy Ham and Hash Brown Casserole ratings: 4.71000003814697 review number: 1800
+title: Spinach Quiche ratings: 4.63000011444092 review number: 1766
+title: Banana Pancakes I ratings: 4.57000017166138 review number: 1618
+title: Monkey Bread I ratings: 4.53000020980835 review number: 1483
+title: Pumpkin Bread IV ratings: 4.71999979019165 review number: 1583
+title: Overnight Blueberry French Toast ratings: 4.53000020980835 review number: 1386
+title: Christmas Breakfast Sausage Casserole ratings: 4.69999980926514 review number: 1366
+title: Baked French Toast ratings: 4.46999979019165 review number: 1219
